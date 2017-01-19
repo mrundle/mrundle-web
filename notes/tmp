@@ -1,0 +1,3 @@
+!Title Resetting your terminal
+# http://www.tldp.org/HOWTO/Keyboard-and-Console-HOWTO-4.html"># http://www.tldp.org/HOWTO/Keyboard-and-Console-HOWTO-4.html
+echo -e \\033c

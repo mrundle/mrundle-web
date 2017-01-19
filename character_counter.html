@@ -1,0 +1,20 @@
+<script type="text/javascript">
+window.onkeyup = count_chars;
+
+function count_chars() {
+    var txt = document.getElementById("text-box").value;
+    document.getElementById("char-count").innerHTML = txt.length;
+}
+</script>
+
+<center>
+    <h2>Character counter</h2>
+</center>
+
+<center>
+    <textarea id="text-box" rows="20" cols="80"></textarea>
+</center>
+
+<center>
+    <span>Characters: </span><span id="char-count"></span>
+</center>

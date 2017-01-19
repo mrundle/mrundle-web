@@ -1,0 +1,5 @@
+!Title Finding largest files and directories in Linux
+# TODO link with pop-up describing each cmd in more detail..
+# black-font text w/ no underline?
+root_dir=/
+sudo du -a $root_dir | sort -n -r | head -n 5
