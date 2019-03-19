@@ -13,9 +13,11 @@
 </h3>
 <h3>config</h3>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/home/mrundle/.bash_profile">.bash_profile</a></li>
-        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/home/mrundle/.tmux.conf">.tmux.conf</a></li>
-        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/home/mrundle/.vimrc">.vimrc</a></li>
+        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/dotfiles/.bash_profile">.bash_profile</a></li>
+        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/dotfiles/.vimrc">.vimrc</a></li>
+        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/dotfiles/.vimrc_chromeos">.vimrc_chromeos</a></li>
+        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/dotfiles/.tmux.conf">.tmux.conf</a></li>
+        <li><a href="https://raw.githubusercontent.com/mrundle/mrundle-dev/master/dotfiles/.gitconfig">.gitconfig</a></li>
     </ul>
 <h3>tools</h3>
     <ul>
